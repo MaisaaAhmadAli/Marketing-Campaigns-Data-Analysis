@@ -4,18 +4,18 @@
 
 
 ## Table of Contents
-- Description
-- Installation
-- Usage
-- Dependencies
-- Credits
-- Contributing
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Dependencies](#Dependencies)
+- [Credits](#Credits)
+- [Contributing](#Contributing)
   
 ## Description
 This project was developed as part of the SADAIA Data Science and AI  T5 Bootcamp. It aims to gain insights into customer acquisition in marketing campaigns by performing exploratory data analysis and hypothesis testing. The objective is to understand the factors influencing customer acquisition and make data-driven recommendations for marketing strategies. The provided tabular data includes variables related to the four Ps of marketing: people, product, place, and promotion. Tasks include data preparation, exploring the data through visualizations and statistics, conducting hypothesis tests on customer behavior, and visualizing key insights such as product performance, campaign acceptance rates, customer demographics, and spending patterns.
 
 ## Installation
-- Install Python (version X.X.X) from the official website: [Python.org](https://www.python.org).
+- Install Python (version 3.11.1) from the official website: [Python.org](https://www.python.org).
 
 ## Usage
 To replicate the analysis, follow these steps:
@@ -42,10 +42,10 @@ Ensure that the dependencies are installed in your Python environment with compa
 
 ## Credits
 
-- [Maisaa Alhulimi ]([https://github.com/contributor1](https://github.com/MaisaaAhmadAli)): 
+- [Maisaa Alhulimi ](https://github.com/MaisaaAhmadAli): 
 - [Raheil Alotaibi](https://github.com/contributor2): 
-- [Abdulrahman Ghazwani]([https://github.com/contributor3](https://github.com/9aj-code)): 
+- [Abdulrahman Ghazwani](https://github.com/9aj-code): 
 
-We would like to express our gratitude to [Data Provider/Organization] for providing the marketing campaigns dataset used in this project.
+
 ## Contributing.
 Contributions to Quantum Tic-Tac-Toe are welcome! If you spot any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the project's code of conduct.
