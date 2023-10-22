@@ -43,7 +43,7 @@ Ensure that the dependencies are installed in your Python environment with compa
 ## Credits
 
 - [Maisaa Alhulimi ](https://github.com/MaisaaAhmadAli)
-- [Raheil Alotaibi](https://github.com/contributor2)
+- [Raheil Alotaibi](https://github.com/Raheil-ali)
 - [Abdulrahman Ghazwani](https://github.com/9aj-code) 
 
 
