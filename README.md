@@ -48,4 +48,4 @@ Ensure that the dependencies are installed in your Python environment with compa
 
 
 ## Contributing.
-Contributions to Quantum Tic-Tac-Toe are welcome! If you spot any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the project's code of conduct.
+Contributions to Marketing Campaigns Data Analysis are welcome! If you spot any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the project's code of conduct.
