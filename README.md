@@ -20,7 +20,7 @@ This project was developed as part of the SADAIA Data Science and AI  T5 Bootcam
 ## Usage
 To replicate the analysis, follow these steps:
 
-1. Clone the project repository from [GitHub Repo URL].
+1. Clone the project repository from [(https://github.com/MaisaaAhmadAli/Marketing-Campaigns-Data-Analysis.git)].
 2. Navigate to the project directory.
 3. Run the Jupyter notebooks in sequential order:
    a. Data preparation: Perform data cleaning and preprocessing.
